@@ -1,5 +1,5 @@
 pragma solidity >=0.4.25 <0.7.0;
-
+//Answer of question number 2 for day 3 assignment
 contract  Day3{
     
     uint idModulus = 10 **5;
