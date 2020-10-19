@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0 <0.6.0;
 /*
-        * This is a simple solidity smart contrant for  University Student's registration and report card in which only
+        * This is a simple solidity smart contrant for  University Student's Registration and report card in which only
            university can register and set Marks(only done through university address "0x6ac176B4B406Ee03F4CCDA3e791C64DEF49060ec") 
         * The contract is deployed on repsten test network .(Link :- https://ropsten.etherscan.io/address/0xeaf78c3d6edb83d2d72064acdcd82119c3d1d2b4)
                 *Contratct Address :-  0xEaF78c3D6EDb83D2D72064AcDCd82119c3D1D2b4
